@@ -1,2 +1,2 @@
 # mi349-blog
-MI349 Blog
+# https://willowy-longma-818725.netlify.app
